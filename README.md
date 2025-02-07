@@ -1,0 +1,1 @@
+This repository contains a Python program with a bug related to handling empty lists in a function that calculates the average of numbers. The bug is demonstrated and then fixed with a solution.
